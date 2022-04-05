@@ -21,6 +21,7 @@ group :development, :test do
   gem 'reel'
   gem 'http'
   gem 'webrick'
+  gem 'rackup'
 end
 
 
